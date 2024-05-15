@@ -1,0 +1,112 @@
+20231029	20:01:04	5d2ceeb4-72cf-4ff9-954f-81491bf5dea1	ReferenceError: porcess is not defined
+20231029	20:01:11	bec817aa-e970-4f9f-b749-64e1115d9396	ReferenceError: porcess is not defined
+20231029	20:01:58	90491b01-19f3-4549-93b2-5d4c7f3cedd4	ReferenceError: porcess is not defined
+20231029	20:02:17	65327073-1ce2-4882-b292-eeadc1165798	ReferenceError: porcess is not defined
+20231029	20:02:51	34682f96-ea51-4367-8112-e769cf85290a	ReferenceError: porcess is not defined
+20231029	20:04:01	74e237ce-7838-4c0f-9fef-c7ab5eb49a99	ReferenceError: porcess is not defined
+20231029	20:04:09	c8a5f62e-9666-4920-821a-e9f8102b145c	ReferenceError: porcess is not defined
+20231029	21:56:58	6df3e06d-c265-4c37-923c-ad61f7fa6326	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231029	21:57:21	9584157a-5028-45a7-815f-fe0659ce056a	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231029	21:57:29	74777f0b-5ded-41e4-b608-387e72ca1401	ReferenceError: rolesArray is not defined
+20231029	22:00:11	f47c3543-9c5b-47ef-96ec-df5219cc58cf	ReferenceError: rolesArray is not defined
+20231031	14:12:09	48007ba9-32ad-423e-97a6-974594e750bd	ReferenceError: cookies is not defined
+20231105	18:26:09	decb5c55-7cfb-40fb-85bd-7f69ff0082e7	Error: Unknown authentication strategy "google"
+20231105	18:31:44	121d0273-2b1d-46f4-a1d9-f8f3f120c9fc	Error: Unknown authentication strategy "google"
+20231105	18:33:45	4ae402a0-fc85-4aff-868c-57e12da5181f	Error: Unknown authentication strategy "google"
+20231105	18:33:46	e439e068-a7cf-44af-97ea-d9f9c24ff88a	Error: Unknown authentication strategy "google"
+20231105	18:33:55	7eacec7d-e1e0-4b29-9dbf-7021a935dbb3	Error: Unknown authentication strategy "google"
+20231105	18:35:04	884c6b66-2716-4913-bda2-d6bb2494f2c2	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20231105	18:35:04	20501b97-352b-4279-9881-7f7b1e08f311	Error: Login sessions require session support. Did you forget to use `express-session` middleware?
+20231105	18:35:18	8a15add4-1bba-43eb-ae62-b03128b62861	Error: Unknown authentication strategy "google"
+20231105	21:17:47	c397ea4c-5910-43bb-8dc3-26c7f355b8b3	Error: Unknown authentication strategy "google"
+20231105	21:17:51	03f551f3-e453-4805-a343-09e2fce0f92f	Error: Unknown authentication strategy "google"
+20231105	21:17:53	3324cc47-bb98-445b-8e93-b0a02791af2b	Error: Unknown authentication strategy "google"
+20231105	21:30:51	029018d5-fd5e-4c2a-bc25-0614749e0a05	Error: Internal Server Error
+20231105	21:32:56	45fe7a78-9efb-4945-aeb4-ec594935d833	Error: Internal Server Error
+20231106	09:59:44	12af2c11-4b81-4cdc-b7da-f3880515700c	Error: Internal Server Error
+20231106	10:05:39	026fa750-140e-42af-811b-405542a8ac9a	TokenError: Bad Request
+20231106	10:22:09	8d3db37d-5664-4592-86f4-61978c8a1326	Error: Internal Server Error
+20231106	10:22:44	9a63f2ac-04f3-486e-b625-dc76b168ecb9	Error: Internal Server Error
+20231106	10:23:09	9cba5b05-c2f0-4a3b-a0e2-2f85a6d6fd8f	Error: Internal Server Error
+20231106	10:26:20	5d7e84ea-c896-41bf-a50d-1c79d4948cbc	Error: User data not found
+20231106	10:34:33	b00fee69-ed6a-4ddc-b5f1-c5c378b105ba	Error: Internal Server Error
+20231106	10:36:05	41295379-c034-4af9-9ae0-6d91da56ffbe	Error: Internal Server Error
+20231108	01:09:14	bc31f761-8ee8-4506-87a2-0c785ad82b42	Error: Internal Server Error
+20231108	01:12:04	0d5cd990-42a5-4642-86e6-91e182fe71a3	Error: Internal Server Error
+20231108	01:15:49	83b876d5-2d9f-47ac-b73c-7b41ae8f8758	Error: Internal Server Error
+20231108	01:23:13	e875fc5b-82a7-4ebf-9057-ff758a9b62e8	Error: Internal Server Error
+20231108	01:24:49	32712273-7389-4e27-afdc-29ea8c2d1591	Error: Internal Server Error
+20231109	10:47:57	11321956-725a-466b-96e0-3400812ad1cd	SyntaxError: Unexpected end of JSON input
+20231109	10:48:06	6b8ebda5-c5b4-4849-8aa8-9894a695f9e8	SyntaxError: Unexpected end of JSON input
+20231109	10:48:15	8adc9dbc-4a86-48ba-b781-894f6afaf45c	SyntaxError: Unexpected end of JSON input
+20231109	10:48:47	341d1969-05ff-4c3d-a253-b1fed71c8383	SyntaxError: Unexpected end of JSON input
+20231109	10:48:49	2f1be37d-b81a-4405-8ef5-d90b9a9bb58c	SyntaxError: Unexpected end of JSON input
+20231109	10:49:53	e4aab4bb-4368-4150-a175-782c7889f5be	Error: ENOENT: no such file or directory, stat 'C:\Users\dangt\Desktop\kashisagashi\Kashi-Sagashi-Backend\views\404.html'
+20231109	10:50:27	193b4803-4b23-4884-89c0-d8aed5831509	Error: ENOENT: no such file or directory, stat 'C:\Users\dangt\Desktop\kashisagashi\Kashi-Sagashi-Backend\views\404.html'
+20231109	10:56:53	530e713b-cd27-42dc-9429-e4b40e1267b6	SyntaxError: Unexpected token } in JSON at position 30
+20231109	10:57:07	e09d669b-faea-423a-9b1c-208ac49c7479	SyntaxError: Unexpected token } in JSON at position 30
+20231109	10:57:10	e23218f2-7015-4969-8dd6-482e46ddd1b1	SyntaxError: Unexpected token } in JSON at position 30
+20231109	10:57:37	26bbe917-f77c-4bcf-bb6c-0b89c885c44d	SyntaxError: Unexpected token } in JSON at position 30
+20231109	10:57:48	77c71648-0389-4f63-a7d8-d1a418120ad7	SyntaxError: Unexpected token } in JSON at position 30
+20231109	11:01:05	090abb3f-d5b6-4aec-ac76-49ec49ec0cd8	SyntaxError: Unexpected token } in JSON at position 36
+20231116	23:11:13	17830414-52d1-486f-98f3-2406c10260de	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231116	23:11:21	cc89e55d-7273-46f8-86dd-5c5a3e2dfa71	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231126	18:52:48	9f3f892e-0482-4067-93d0-fc7f39889e9e	SyntaxError: Unexpected token } in JSON at position 43
+20231126	19:16:44	965eb1a8-5b9f-4f00-883c-01cfd1cbbe37	SyntaxError: Unexpected token ' in JSON at position 16
+20231126	19:16:47	efb0f244-4099-409f-9f0e-6926cc99c6b9	SyntaxError: Unexpected token ' in JSON at position 16
+20231128	20:42:27	12bc7c92-f7f9-47dc-a45f-991115b60d7e	PayloadTooLargeError: request entity too large
+20231128	20:42:52	2d97ac24-318c-482a-981e-db57686573c6	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231128	20:43:28	7b320ed8-8dd4-4f8a-a951-59e2c22a81e8	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231128	20:44:26	c6e481e4-9471-4613-b81b-f849581fbb12	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231128	20:45:45	4925f329-6b34-4a36-9521-896215a3796d	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231128	20:45:47	9811a9b4-6c6e-4421-aebf-c5b58ed03d62	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231128	20:46:26	af478273-c193-43ca-8a58-c01651c49f32	PayloadTooLargeError: request entity too large
+20231128	20:46:43	042fedb4-ef50-4a4e-b821-59fef00b49c4	PayloadTooLargeError: request entity too large
+20231128	20:47:00	633e9992-812a-4ef2-880a-741ab6279b98	PayloadTooLargeError: request entity too large
+20231128	20:47:50	f6490b6a-46be-4b3c-92e8-084dbde91996	PayloadTooLargeError: request entity too large
+20231205	17:36:30	65152a61-e073-432b-b02d-5a88f54054a3	PayloadTooLargeError: request entity too large
+20231205	17:36:53	b56836a5-436e-43a7-8d3c-1057af6e4fc0	PayloadTooLargeError: request entity too large
+20231205	17:51:55	c39027ae-564b-4e45-a6e4-c782c3c478cb	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	17:53:45	e97a829d-6fa3-4d05-9635-7a22632fa401	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	18:14:16	0fad43d4-67fb-4ee2-b4f5-1d025b7c0264	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	20:09:41	1bd57b96-164e-46a7-9178-8b0282176ddc	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	20:11:27	70e80e2c-e6c2-449f-a517-aba35ea260a3	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:31:44	e8f6db90-6826-4ab7-b190-4861f299693f	PayloadTooLargeError: request entity too large
+20231205	21:32:19	d4f525bb-05b0-4faa-9994-40133430200e	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:32:28	3ec9b90d-384e-4c20-a8df-9f6f2116cfdc	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:32:46	113a56f9-ee59-4356-85bb-2939aef5c51c	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:33:11	da7a3dc5-b72c-4015-9f17-6a7a8d3f2866	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:35:11	3ae20b5f-c845-4ca0-8a67-4c664d20e173	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:35:23	fec00bec-0a63-42de-a2ef-82b8d2f71c90	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:37:47	1c0a4b72-0f3f-400f-b387-b1acda45addc	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:43:34	90418d6e-b1fb-46df-bbf5-a6a81b9c0170	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:44:59	30faae1d-634a-4212-9a6b-0f4f0699d90e	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:45:36	ce066344-f9c8-4e5b-8785-2001d2e0c550	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:45:58	a6ee21b8-076d-4c67-9387-e5994a516b59	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	21:46:06	ba25b210-c9ca-49e9-a5af-9d8ebb0bcb4f	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	22:04:05	ebe07896-96bd-40b2-afa6-b834e3048ff6	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	22:08:38	893cc70b-665a-4c1c-852f-c97e30131a85	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	22:09:56	d04381e1-52b7-4e10-b40e-511b8ce1dc35	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	22:25:06	06a590ca-483b-4647-9d61-5c3a4fa1976c	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231205	22:25:31	50f01a90-6c5c-4321-b659-396d5381bf81	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231206	02:04:40	01997c17-87ec-49fa-aa84-c53d88d38662	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231206	02:04:42	4e1c3d3a-436e-4ec9-b042-51ea0871d20c	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231206	02:30:11	edd85203-1c2d-4830-a410-2af1ef93cdda	Error: ENOENT: no such file or directory, stat 'D:\Coding\Web API\Backend Research\Backend\views\404.html'
+20231206	11:57:38	948d7e0f-e49e-48c9-9733-5852e194bce6	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:32:53	033c6500-2bdc-4487-956b-df2d94dbde66	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:40:48	8d6e5c96-ff2e-4e92-97bc-6ce34db95dec	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:40:49	7eaa1d66-5826-44e3-8095-3323349569a6	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:42:15	44755a75-fc10-48bc-89f7-48f75bbb394c	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:42:16	17d46e5d-bda0-4b1b-9931-6f75ec1aa025	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:42:17	f90d7546-6649-4701-b555-b10d47d845b3	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:42:17	0dfe1ada-14c2-47cd-9db8-e4138f1aebe8	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:43:06	1d3b70b4-aaac-4d75-afa9-5b5e8fd0b82d	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:43:06	59c80ba9-53b5-4342-b49a-2f5b028b73d9	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\404.html'
+20231206	12:43:32	952deed6-c957-45ff-b9ec-788127ff0f0d	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\views\404.html'
+20231206	12:43:33	a2521528-9dac-49e6-8a53-607256359264	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\views\404.html'
+20231206	12:44:56	6f5809eb-5a4e-4829-a632-61014eb613ad	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\views\index.html'
+20231206	12:46:03	c09600dd-1250-4f3d-8563-d29dbec92dc4	Error: ENOENT: no such file or directory, stat 'D:\Coding\PROJECTS\Kashisagashi\KashiSagashi_Backend\views\index.html'
+20231206	13:54:01	c406416a-a735-463d-95ad-7eabcda7f6b7	SyntaxError: Unexpected token } in JSON at position 2419
+20231206	14:07:03	c20999a1-9b69-4c07-bd6a-7b87e87aeb01	SyntaxError: Unexpected token . in JSON at position 2416
+20231206	14:10:37	8b56c65f-72a3-484b-b35a-3c0158fa3383	SyntaxError: Unexpected token f in JSON at position 2416
+20231206	14:18:37	bfc04db6-225e-45c5-95bf-ccee86fc7269	SyntaxError: Unexpected token f in JSON at position 2416
